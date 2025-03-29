@@ -4,7 +4,7 @@ This repository is a collection of Machine Learning tasks as toy examples. The p
 
 ## Guidelines and Honor Code
 
-Each task is designed to be completed on a single GPU / TPU. While the training part does not take long, code implementation and ebugging can take anywhere from 2 days to 2 weeks. Note that if you are beginner, it might take longer than 2 weeks to arrive at a few solutions. While there are no strict protocols on how the tasks should be completed, it is essential that learners complete the task independently, ie- without AI assistance.
+Each task is designed to be completed on a single GPU / TPU. While the training part does not take long, code implementation and debugging can take anywhere from 2 days to 2 weeks. Note that if you are beginner, it might take longer than 2 weeks to arrive at a few solutions. While there are no strict protocols on how the tasks should be completed, it is essential that learners complete the task independently, ie- without AI assistance.
 
 ## Tasks
 
