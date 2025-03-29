@@ -12,6 +12,6 @@ Note that the personal completion time varies for each learner depending on time
 
 |Task|Solution|Personal Completion Time|
 |:--:|:------:|:----------------------:|
-|||2 days|
+|Implement and train a shallow transformer model to generate random numbers between 0 and 100. Generate a new sequence using the model and visualize the learned distribution of random numbers. Your implementation should be written in JAX and submitted as a single `.py` or `.ipynb` file.|[`rand_transformer.ipynb`](rand_transformer.ipynb)|2 days|
 
 
